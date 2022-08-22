@@ -3,7 +3,7 @@ import 'App.css';
 const Home=()=>{
     return(
         <div className="container-fluid">
-         <h1>home</h1>
+         <img className="homeimg" src=""/>
            
         </div>
     )
